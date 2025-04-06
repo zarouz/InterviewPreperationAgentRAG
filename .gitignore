@@ -37,6 +37,3 @@ temp_audio/
 *.sln
 *.sw?
 
-# Add other files you don't want to track
-# e.g., Large datasets, specific report outputs if desired
-# *.pdf # Uncomment if you don't want generated reports in git
