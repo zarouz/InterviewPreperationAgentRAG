@@ -1,0 +1,42 @@
+# RAG/.gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Secrets / Credentials - IMPORTANT!
+.env
+*.env
+*.log
+credentials.*
+secrets.*
+
+# Temporary files
+temp_audio/
+
+# IDE / Editor config
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Add other files you don't want to track
+# e.g., Large datasets, specific report outputs if desired
+# *.pdf # Uncomment if you don't want generated reports in git

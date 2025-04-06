@@ -1,0 +1,45 @@
+Job Title: Graduate Software Engineer
+
+Location: Austin, TX / Remote Option Available
+
+Company: Innovate Solutions Inc.
+
+About Us:
+Innovate Solutions Inc. is at forefront of creating cutting-edge tools for developers. We foster a collaborative environment where learning and growth are paramount. Join our team and help build the future of software development!
+
+Job Description:
+We are seeking highly motivated and talented recent graduates to join our engineering team as Graduate Software Engineers. This is an entry-level position designed for individuals passionate about software development and eager to kick-start their careers. You will receive mentorship from senior engineers, participate in comprehensive training programs, and contribute to real-world projects under guidance.
+
+Responsibilities:
+- Participate in the full software development lifecycle (design, develop, test, deploy, maintain) under the guidance of senior engineers.
+- Write clean, well-documented, and testable code in languages like Python or Java.
+- Learn and contribute to our existing codebase and infrastructure.
+- Assist in debugging and resolving software defects.
+- Collaborate effectively with team members, product managers, and designers.
+- Participate in code reviews to learn best practices and maintain code quality.
+- Document technical specifications and processes.
+- Continuously learn new technologies and software development practices.
+
+Qualifications:
+- Bachelor's degree in Computer Science, Software Engineering, or a closely related technical field, completed within the last 12 months.
+- Solid understanding of fundamental computer science concepts, including Data Structures, Algorithms, Operating Systems, and Databases.
+- Proficiency in at least one object-oriented programming language (e.g., Python, Java, C++).
+- Strong analytical and problem-solving skills.
+- Excellent communication and interpersonal skills.
+- A strong desire to learn, grow, and take initiative.
+- Ability to work effectively both independently and as part of a team.
+
+Nice to Haves:
+- Academic projects demonstrating programming skills.
+- Basic familiarity with version control systems like Git.
+- Exposure to web development concepts (HTML, CSS, JavaScript) or frameworks.
+- Basic understanding of cloud computing concepts (AWS, Azure, GCP).
+- Familiarity with Linux/Unix environments.
+- Contributions to personal projects or open-source communities (e.g., GitHub profile).
+
+Why Join Us?
+- Structured mentorship program.
+- Opportunity to work on impactful projects.
+- Continuous learning and development opportunities.
+- Collaborative and supportive team culture.
+- Competitive salary and benefits package for entry-level roles.
