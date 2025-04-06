@@ -32,7 +32,7 @@
     # OR Install necessary packages manually (see Technology Stack below)
     pip install -r requirements.txt
     ```
-    **Important:** Ensure your environment matches the dependencies, especially handling the Keras/TensorFlow/Transformers versions as discussed during debugging (e.g., `tensorflow`, `tensorflow-macos`, `tensorflow-metal`, `keras`, `transformers`, `sentence-transformers`, `torch`, etc.).
+    **Important:** Ensure your environment matches the dependencies, especially handling the Keras/TensorFlow/Transformers versions (e.g., `tensorflow`, `tensorflow-macos`, `tensorflow-metal`, `keras`, `transformers`, `sentence-transformers`, `torch`, etc.).
 
 4.  **Download NLTK Data:**
     The `utils.py` script attempts to download necessary NLTK data (`stopwords`, `punkt`) on first run if needed. Alternatively, run this in a Python interpreter within your venv:
@@ -136,12 +136,5 @@ The generated PDF report contains:
 *   Refactor the emotion analysis into a separate microservice/API as discussed during debugging.
 *   Add unit and integration tests.
 
-## Contributing
 
-*(Optional: Add guidelines if you want others to contribute)*
-Contributions are welcome! Please feel free to submit pull requests or open issues.
 
-## License
-
-*(Optional but Recommended: Choose a license)*
-This project is licensed under the MIT License - see the LICENSE file for details. (You'll need to create a `LICENSE` file with the chosen license text, e.g., from choosealicense.com).
